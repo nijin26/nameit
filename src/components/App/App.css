@@ -4,3 +4,9 @@ body {
     color: #e7e9f0;
     font-family: 'Lato', sans-serif;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}

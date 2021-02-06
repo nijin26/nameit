@@ -1,6 +1,7 @@
 {
   "name": "name_it",
   "version": "0.1.0",
+  "homepage": "http://nijin26.github.io/nameit",
   "private": true,
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",

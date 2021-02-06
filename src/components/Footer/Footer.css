@@ -1,0 +1,11 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    background-color: #dcd4fce0;
+    color: #0f1228;
+    font-weight: 700;
+}
+
+p > a {
+    text-decoration: none;
+}
