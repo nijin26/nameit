@@ -6,18 +6,18 @@
 }
 
 .head-image {
-    width: 250px;
+    width: 300px;
     transition: max-width 1s, min-width 1s;
 }
 
 .head-image-exapanded {
-    min-width: 230px;
-    max-width: 250px;
+    min-width: 220px;
+    max-width: 280px;
 }
 
 .head-image-contracted {
-    min-width: 40px;
-    max-width: 60px;
+    min-width: 100px;
+    max-width: 120px;
 }
 
 .head-text {

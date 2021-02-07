@@ -4,6 +4,8 @@
     background-color: #dcd4fce0;
     color: #0f1228;
     font-weight: 700;
+    text-align: center;
+    padding: 5px 10px;
 }
 
 p > a {
